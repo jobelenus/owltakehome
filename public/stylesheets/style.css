@@ -1,0 +1,55 @@
+body {
+  font-size: 16px;
+  background: white;
+  color: rgba(0, 0, 0, .8);
+}
+
+article {
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 3em;
+}
+
+@media only screen and (min-device-width: 813px) {
+  article {
+    width: 65vw;
+  }
+}
+
+form#tax_form {
+  margin-bottom: 2em;
+}
+
+
+/* Balloons sample
+
+this is from the NES theme, I don't know why it wasn't in the main css
+rather annoying, I thought I was going crazy b/c the visual wasn't what matched their demo page
+*/
+section.message-list {
+  display: flex;
+  flex-direction: column;
+}
+.message-list > .message {
+  display: flex;
+  margin-top: 2rem;
+}
+.message-list > .message > .nes-balloon {
+  max-width: 80%;
+}
+.message-list > .message i {
+  align-self: flex-end;
+}
+.message-list > .message.-left {
+  align-self: flex-start;
+}
+.message-list > .message.-right {
+  align-self: flex-end;
+}
+.message-list > .message.-left i {
+  margin-right: 2rem;
+}
+.message-list > .message.-right i {
+  margin-left: 2rem;
+}

@@ -1,0 +1,421 @@
+AL	Alabama	2.00%	0	500
+				
+AL	Alabama	4.00%	500	3000
+				
+AL	Alabama	5.00%	3000	
+				
+AK	Alaska	None		
+				
+AZ	Arizona	2.59%	0	10346
+				
+AZ	Arizona	2.88%	10346	25861
+				
+AZ	Arizona	3.36%	26861	51721
+				
+AZ	Arizona	4.24%	51721	155159
+				
+AZ	Arizona	4.54%	155159	
+				
+AR	Arkansas	0.90%	0	4299
+				
+AR	Arkansas	2.50%	4299	8399
+				
+AR	Arkansas	3.50%	8399	12599
+				
+AR	Arkansas	4.50%	12599	20999
+				
+AR	Arkansas	6.00%	20999	35099
+				
+AR	Arkansas	6.90%	35099	
+				
+CA	California	1.00%	0	8223**
+				
+CA	California	2.00%	8223	19495
+				
+CA	California	4.00%	19495	30769
+				
+CA	California	6.00%	30769	42711
+				
+CA	California	8.00%	42711	53980
+				
+CA	California	9.30%	53980	275738
+				
+CA	California	10.30%	275738	330884
+				
+CA	California	11.30%	330884	551473
+				
+CA	California	12.30%	551473	1000000
+				
+CA	California	13.30%	1000000	
+				
+CO	Colorado	4.63%	0	
+				
+CT	Connecticut	3.00%	0	10000
+				
+CT	Connecticut	5.00%	10000	50000
+				
+CT	Connecticut	5.50%	50000	100000
+				
+CT	Connecticut	6.00%	100000	200000
+				
+CT	Connecticut	6.50%	200000	250000
+				
+CT	Connecticut	6.90%	250000	500000
+				
+CT	Connecticut	6.99%	500000	2000
+				
+DE	Delaware	2.20%	2000	5000
+				
+DE	Delaware	3.90%	5000	10000
+				
+DE	Delaware	4.80%	10000	20000
+				
+DE	Delaware	5.20%	20000	25000
+				
+DE	Delaware	5.55%	25000	60000
+				
+DE	Delaware	6.60%	60000	
+				
+DC	District of Columbia	4.00%	0	10000
+				
+DC	District of Columbia	6.00%	10000	40000
+				
+DC	District of Columbia	6.50%	40000	60000
+				
+DC	District of Columbia	8.50%	60000	350000
+				
+DC	District of Columbia	8.75%	350000	1000000
+				
+DC	District of Columbia	8.95%	1000000	
+				
+FL	Florida	None		
+				
+GA	Georgia	1.00%	0	750
+				
+GA	Georgia	2.00%	750	2250
+				
+GA	Georgia	3.00%	2250	3750
+				
+GA	Georgia	4.00%	3750	5250
+				
+GA	Georgia	5.00%	5250	7000
+				
+GA	Georgia	6.00%	7000	
+				
+HI	Hawaii	1.40%	0	2400
+				
+HI	Hawaii	3.20%	2400	4800
+				
+HI	Hawaii	5.50%	4800	9600
+				
+HI	Hawaii	6.40%	9600	14400
+				
+HI	Hawaii	6.80%	14400	19200
+				
+HI	Hawaii	7.20%	19200	24000
+				
+HI	Hawaii	7.60%	24000	36000
+				
+HI	Hawaii	7.90%	36000	48000
+				
+HI	Hawaii	8.25%	48000	150000
+				
+HI	Hawaii	9.00%	150000	175000
+				
+HI	Hawaii	10.00%	175000	200000
+				
+HI	Hawaii	11.00%	200000	
+				
+ID	Idaho	1.60%	0	1472
+				
+ID	Idaho	3.60%	1472	2945
+				
+ID	Idaho	4.10%	2945	4417
+				
+ID	Idaho	5.10%	4417	5890
+				
+ID	Idaho	6.10%	5890	7362
+				
+ID	Idaho	7.10%	7362	11043
+				
+ID	Idaho	7.40%	11043	
+				
+IL	Illinois	4.95%	0	
+				
+IN	Indiana	3.23%	0	
+				
+IA	Iowa	0.36%	0	1598
+				
+IA	Iowa	0.72%	1598	3196
+				
+IA	Iowa	2.43%	3196	6392
+				
+IA	Iowa	4.50%	6392	14382
+				
+IA	Iowa	6.12%	14382	23970
+				
+IA	Iowa	6.48%	23970	31960
+				
+IA	Iowa	6.80%	31960	47490
+				
+IA	Iowa	7.92%	47490	71910
+				
+IA	Iowa	8.98%	71910	
+				
+KS	Kansas	3.10%	2500	15000
+				
+KS	Kansas	5.25%	15000	30000
+				
+KS	Kansas	5.70%	30000	
+				
+KY	Kentucky	2.00%	0	3000
+				
+KY	Kentucky	3.00%	3000	4000
+				
+KY	Kentucky	4.00%	4000	5000
+				
+KY	Kentucky	5.00%	5000	8000
+				
+KY	Kentucky	5.80%	8000	75000
+				
+KY	Kentucky	6.00%	75000	
+				
+LA	Louisiana	2.00%	0	12500
+				
+LA	Louisiana	4.00%	12500	50000
+				
+LA	Louisiana	6.00%	50000	
+				
+ME	Maine	5.80%	0	21050
+				
+ME	Maine	6.75%	21505	50000
+				
+ME	Maine	7.15%	50000	
+				
+MD	Maryland	2.00%	0	1000
+				
+MD	Maryland	3.00%	1000	2000
+				
+MD	Maryland	4.00%	2000	3000
+				
+MD	Maryland	4.75%	3000	100000
+				
+MD	Maryland	5.00%	100000	125000
+				
+MD	Maryland	5.25%	125000	150000
+				
+MD	Maryland	5.50%	150000	250000
+				
+MD	Maryland	5.75%	250000	
+				
+MA	Massachusetts	5.10%	0	
+				
+MI	Michigan	4.25%	0	
+				
+MN	Minnesota	5.35%	0	25890
+				
+MN	Minnesota	7.05%	25890	85060
+				
+MN	Minnesota	7.85%	85060	160020
+				
+MN	Minnesota	9.85%	160020	
+				
+MS	Mississippi	3.00%	0	5000
+				
+MS	Mississippi	4.00%	5000	10000
+				
+MS	Mississippi	5.00%	10000	
+				
+MO	Missouri	1.50%	101	1008
+				
+MO	Missouri	2.00%	1008	2016
+				
+MO	Missouri	2.50%	2016	3024
+				
+MO	Missouri	3.00%	3024	4032
+				
+MO	Missouri	3.50%	4032	5040
+				
+MO	Missouri	4.00%	5040	6048
+				
+MO	Missouri	4.50%	6048	7056
+				
+MO	Missouri	5.00%	7056	8064
+				
+MO	Missouri	5.50%	8064	9072
+				
+MO	Missouri	5.90%	9072	
+				
+MT	Montana	1.00%	0	3000
+				
+MT	Montana	2.00%	3000	5200
+				
+MT	Montana	3.00%	5200	8000
+				
+MT	Montana	4.00%	8000	10800
+				
+MT	Montana	5.00%	10800	13900
+				
+MT	Montana	6.00%	13900	17900
+				
+MT	Montana	6.90%	17900	
+				
+NE	Nebraska	2.46%	0	3150
+				
+NE	Nebraska	3.51%	3150	18880
+				
+NE	Nebraska	5.01%	18880	30420
+				
+NE	Nebraska	6.84%	30420	
+				
+NV	Nevada	0.00%	0	
+				
+NH	New Hampshire	5.00%	0	
+				
+NJ	New Jersey	1.40%	0	20000
+				
+NJ	New Jersey	1.75%	20000	35000
+				
+NJ	New Jersey	3.50%	35000	40000
+				
+NJ	New Jersey	5.53%	40000	75000
+				
+NJ	New Jersey	6.37%	75000	500000
+				
+NJ	New Jersey	8.97%	500000	
+				
+NM	New Mexico	1.70%	0	5500
+				
+NM	New Mexico	3.20%	5500	11000
+				
+NM	New Mexico	4.70%	11000	16000
+				
+NM	New Mexico	4.90%	16000	
+				
+NY	New York	4.00%	0	8500
+				
+NY	New York	4.50%	8500	11700
+				
+NY	New York	5.25%	11700	13900
+				
+NY	New York	5.90%	13900	21400
+				
+NY	New York	6.45%	21400	80650
+				
+NY	New York	6.65%	80650	215400
+				
+NY	New York	6.85%	215400	1077550
+				
+NY	New York	8.82%	1077550	
+				
+NC	North Carolina	5.50%	0	
+				
+ND	North Dakota	1.10%	0	38700
+				
+ND	North Dakota	2.04%	38700	93700
+				
+ND	North Dakota	2.27%	93700	195450
+				
+ND	North Dakota	2.64%	195450	424950
+				
+ND	North Dakota	2.90%	424950	
+				
+OH	Ohio	1.98%	10650	16000
+				
+OH	Ohio	2.75%	16000	21350
+				
+OH	Ohio	2.97%	21350	42650
+				
+OH	Ohio	3.47%	42650	85300
+				
+OH	Ohio	3.96%	85300	106650
+				
+OH	Ohio	4.60%	106650	213350
+				
+OH	Ohio	5.00%	213350	
+				
+OK	Oklahoma	0.50%	0	1000
+				
+OK	Oklahoma	1.00%	1000	2500
+				
+OK	Oklahoma	2.00%	2500	3750
+				
+OK	Oklahoma	3.00%	3750	4900
+				
+OK	Oklahoma	4.00%	4900	7200
+				
+OK	Oklahoma	5.00%	7200	
+				
+OR	Oregon	5.00%	0	3400
+				
+OR	Oregon	7.00%	3400	8500
+				
+OR	Oregon	9.00%	8500	125000
+				
+OR	Oregon	9.90%	125000	
+				
+PA	Pennsylvania	3.07%	0	
+				
+RI	Rhode Island	3.75%	0	62550
+				
+RI	Rhode Island	4.75%	62500	149150
+				
+RI	Rhode Island	5.99%	149150	
+				
+SC	South Carolina	3.00%	2930	5860
+				
+SC	South Carolina	4.00%	5860	8790
+				
+SC	South Carolina	5.00%	8790	11720
+				
+SC	South Carolina	6.00%	11720	14650
+				
+SC	South Carolina	7.00%	14650	
+				
+SD	South Dakota	None		
+				
+TN	Tennessee	3.00%	0	
+				
+TX	Texas	None		
+				
+UT	Utah	5.00%	0	
+				
+VT	Vermont	3.55%	0	37900
+				
+VT	Vermont	6.80%	37900	91850
+				
+VT	Vermont	7.80%	91850	191650
+				
+VT	Vermont	8.80%	191650	416650
+				
+VT	Vermont	8.95%	416650	
+				
+VA	Virginia	2.00%	0	3000
+				
+VA	Virginia	3.00%	3000	5000
+				
+VA	Virginia	5.00%	5000	17000
+				
+VA	Virginia	5.75%	17000	
+				
+WA	Washington	None		
+				
+WV	West Virginia	3.00%	0	10000
+				
+WV	West Virginia	4.00%	10000	25000
+				
+WV	West Virginia	4.50%	25000	40000
+				
+WV	West Virginia	6.00%	40000	60000
+				
+WV	West Virginia	6.50%	60000	
+				
+WI	Wisconsin	4.00%	0	11230
+				
+WI	Wisconsin	5.84%	11230	22470
+				
+WI	Wisconsin	6.27%	22470	247350
+				
+WI	Wisconsin	7.65%	247350	
+				
+WY	Wyoming	None

@@ -1,0 +1,47 @@
+<form id="tax_form">
+  <section class="nes-container with-title">
+    <h3 class="title">Tax Request</h3>
+    <div class="item">
+      <label for="state">Choose your state's abbreviation</label>
+      <div class="nes-select">
+        <select id="state" class="nes-input">
+          {{#each states}}
+          <option value="{{this}}">{{this}}</option>
+          {{/each}}
+        </select>
+      </div>
+      <br>
+      <div class="nes-field">
+        <label for="amount">Enter a dollar amount</label>
+        <input type="number" placeholder="499" id="amount" class="nes-input">
+      </div>
+    </div>
+    <br>
+    <button type="submit" class="nes-btn is-primary">Get Tax Rate</button>
+  </section>
+</form>
+
+<script id='response_template' type='text/template'>
+      <section class="message -left">
+        <i class="nes-bcrikko"></i>
+        <!-- Balloon -->
+        <div class="nes-balloon from-left">
+          <p class="display"></p>
+        </div>
+      </section>
+</script>
+
+<section class="nes-container with-title">
+  <h3 class="title">Tax Rates</h3>
+  <div class="item">
+    <section class="message-list">
+      <section class="message -left">
+        <i class="nes-bcrikko"></i>
+        <!-- Balloon -->
+        <div class="nes-balloon from-left">
+          <p class="display">Hello, your tax rates will display here. Please use the form to submit a state and dollar amount.</p>
+        </div>
+      </section>
+    </section>
+  </div>
+</section>
